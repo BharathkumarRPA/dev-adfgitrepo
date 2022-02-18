@@ -1,0 +1,9 @@
+{
+	"name": "worldpopADF5909dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "db5ad1a8-be9f-4e73-8099-a6a39b3bb25a",
+		"tenantId": "aef6baf5-6231-4690-9308-23d674d56b05"
+	}
+}
